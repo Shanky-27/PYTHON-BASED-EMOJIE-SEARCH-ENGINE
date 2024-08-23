@@ -12,7 +12,6 @@ Tkinter library (usually comes pre-installed with Python).
 Font support for emojis on your system. The application uses the 'Segoe UI Emoji' font, which is commonly available on Windows.
 How to Run
 Clone the Repository:
-git clone https://github.com/yourusername/emoji-search-app.git
 cd emoji-search-app
 Install Required Libraries:
 Tkinter comes pre-installed with Python, so no additional libraries are required.
